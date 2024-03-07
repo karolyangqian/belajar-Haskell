@@ -1,5 +1,4 @@
 module MaxList where
-import GHC.Base (maxInt)
 
 maxList :: [Int] -> Int
 -- maxList(Li) : menghasilkan elemen Li yang bernilai maksimum
