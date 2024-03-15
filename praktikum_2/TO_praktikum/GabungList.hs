@@ -1,3 +1,4 @@
+module GabungList where
 gabungList :: [Int] -> [Int] -> [Int]
 insert :: Int -> [Int] -> [Int]
 
