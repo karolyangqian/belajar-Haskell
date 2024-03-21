@@ -1,8 +1,17 @@
+1. General Purpose Software
+General Purpose Software adalah aplikasi perangkat lunak yang memiliki fungsi beragam dan sangat umum digunakan dalam berbagai industri atau keperluan. Biasanya software ini diproduksi secara masal dan dapat diakses oleh publik. Contoh general purpose software adalah Microsoft Office, web browser seperti chrome dan safari, dan operating system seperti windows dan linux.
+
+2. Special Purpose Software
+Special purpose software didesain dengan fungsi spesifik untuk memenuhi keperluan dalam bidang industri atau pekerjaan tertentu. Contoh special purpose software adalah computer-aided design (CAD) seperti Autocad dan aplikasi permainan seperti permainan video catur.
+
+3. Bespoke Software
+Bespoke software dirancang secara khusus untuk suatu organisasi atau perusahaan yang memiliki keperluannya tersendiri. Contoh bespoke software adalah perangkat lunak untuk kebutuhan militer dan software untuk visual hasil pemindaian medis.
+
+Paradigma Pemrograman
 Paradigma pemrograman adalah sudut pandang atau kerangka dasar yang digunakan dalam merancang dan mengembangkan program komputer untuk penyelesaian masalah. Setiap persoalan menggiring kita pada pendekatan khusus untuk pemecahannya. Setiap jenis persoalan dapat dipecahkan dengan baik menggunakan paradigma tertentu. Contoh paradigma pemrograman:
 
-Prosedural
-
+1. Prosedural
 Paradigma prosedural menyelesaikan masalah langkah demi langkah. Program dibangun berdasarkan serangkaian instruksi yang dijalankan secara berurutan. Seringkali pemrograman prosedural melibatkan penggunaan fungsi dan prosedur yang bertanggung jawab atas tugas-tugas tertentu serta loop dan percabangan untuk mengendalikan aliran program. Contoh bahasa prosedural adalah Fortran, Pascal, C dan BASIC.
 
-Fungsional
-
+2. Fungsional
+Dalam paradigma fungsional, unit komputasi utama untuk penyelesaian masalah adalah fungsi yang berfokus pada input dan output. Program fungsional lebih berfokus pada apa yang harus dilakukan (input/ouput) daripada bagaimana cara melakukannya (algoritmik). Urutan pemanggilan fungsi dalam paradigma fungsional juga tidak terlalu diperhatikan dan berpengaruh seperti pada program prosedural. Contoh bahasa fungsional adalah Haskell, LISP, dan Miranda.
